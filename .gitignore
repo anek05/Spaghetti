@@ -1,0 +1,35 @@
+__pycache__/
+.research/
+.backups/
+*.zip
+
+# Local Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local configuration and credentials; safe templates may be committed
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+credentials.json
+credentials.*.json
+!credentials.example.json
+secrets.json
+secrets.*.json
+!secrets.example.json
+
+# WoW profiles and local diagnostics (never delete these to clean the repo)
+[Ww][Tt][Ff]/
+[Ss]aved[Vv]ariables/
+*.lua.bak
+*.log
+logs/
+
+# Private filled owner test record; publish only the blank template
+/tests/manual/Spaghetti_MVP_Testplan.md
+/tests/manual/local/

@@ -1,0 +1,2 @@
+# Runs the existing Lua 5.1 and LuaJIT 2.1 suites through Python.
+lupa==2.8

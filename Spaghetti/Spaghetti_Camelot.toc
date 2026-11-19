@@ -1,0 +1,33 @@
+## Interface: 16001
+## Title: Spaghetti
+## Notes: Visual reminder and macro graphs for WoW Forever. /spaghetti
+## Author: Spaghetti contributors
+## Version: 0.3.1
+## SavedVariables: SpaghettiDB
+## SavedVariablesPerCharacter: SpaghettiCharDB
+## X-Category: Interface Enhancements
+
+Registry.lua
+Graph.lua
+Storage.lua
+Compat.lua
+Spells.lua
+Items.lua
+Migrations.lua
+Profiles.lua
+Validation.lua
+Placement.lua
+MacroCompiler.lua
+Examples.lua
+ReminderDisplay.lua
+ReminderEngine.lua
+Layout.lua
+SecureClicks.lua
+MacroIntegration.lua
+Widgets.lua
+SpellPicker.lua
+ItemPicker.lua
+Canvas.lua
+Overview.lua
+Editor.lua
+Core.lua
